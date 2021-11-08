@@ -21,4 +21,4 @@ with open('redirect_data.csv') as data_file:
             headers=HEADERS,
         )
 
-        print(response.json())
+        print(f'Complete: {row[0]}')
