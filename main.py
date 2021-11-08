@@ -10,8 +10,8 @@ with open('redirect_data.csv') as data_file:
     csv_reader = csv.reader(data_file, delimiter=',')
     for row in csv_reader:
         payload = {
-            "from_url": row[0],
-            "to_url": row[1],
+            "from_url": f'/en/latest/{row[0]}',
+            "to_url": f'/en/latest/{row[1]}',
             "type": "exact",
         }
 
