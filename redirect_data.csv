@@ -1,21 +1,22 @@
-﻿provisioning/automation/automation.html,library/automation/automation.html,Library > Automation
-provisioning/automation/automation.html#tasks,library/automation/automation.html#tasks,
-provisioning/automation/automation.html#workflows,library/automation/automation.html#workflows,
-provisioning/automation/automation.html#scale-thresholds,library/automation/automation.html#scale-thresholds,
-provisioning/automation/automation.html#power-scheduling,library/automation/automation.html#power-scheduling,
-provisioning/automation/automation.html#execute-scheduling,library/automation/automation.html#execute-scheduling,
-provisioning/library/library.html,library/blueprints/blueprints.html,
-,library/blueprints/blueprints.html#instance-types,
-,library/blueprints/blueprints.html#layouts,
-,library/blueprints/blueprints.html#node-types,
-,library/blueprints/blueprints.html#app-blueprint-overview,
-,library/blueprints/blueprints.html#cluster-layouts,
-,library/blueprints/blueprints.html,
-,library/blueprints/blueprints.html,
-,library/blueprints/blueprints.html,
-,library/blueprints/blueprints.html,
-,library/blueprints/blueprints.html,
-,library/blueprints/blueprints.html,
-,library/blueprints/blueprints.html,
-,library/blueprints/blueprints.html,
-,library/blueprints/blueprints.html,
+﻿provisioning/automation/automation.html,library/automation/automation.html,Automation
+provisioning/automation/automation.html#tasks,library/automation/automation.html#tasks,Tasks
+provisioning/automation/automation.html#workflows,library/automation/automation.html#workflows,Workflows
+provisioning/automation/automation.html#scale-thresholds,library/automation/automation.html#scale-thresholds,Scales Thesholds
+provisioning/automation/automation.html#power-scheduling,library/automation/automation.html#power-scheduling,Power Schedules
+provisioning/automation/automation.html#execute-scheduling,library/automation/automation.html#execute-scheduling,Execute Schedules
+provisioning/library/library.html,library/blueprints/blueprints.html,Library/Blueprints
+provisioning/library/library.html#instance-types,library/blueprints/blueprints.html#instance-types,Instance Types
+provisioning/library/library.html#layouts,library/blueprints/blueprints.html#layouts,Layouts
+provisioning/library/library.html#node-types,library/blueprints/blueprints.html#node-types,Node Types
+provisioning/blueprints/blueprints.html,library/blueprints/blueprints.html#app-blueprint-overview,App Blueprints
+provisioning/library/library.html#cluster-layouts,library/blueprints/blueprints.html#cluster-layouts,Cluster Layouts
+provisioning/virtual_images/virtual_images.html,library/virtual_images/virtual_images.html,Virtual Images
+provisioning/library/library.html#option-types,library/options/options.html#inputs,Inputs
+provisioning/library/library.html#option-lists,library/options/options.html#option-lists,Option Lists
+provisioning/library/library.html#spec-templates,library/templates/templates.html#spec-templates,Spec Templates
+provisioning/library/library.html#file-templates,library/templates/templates.html#file-templates,File Templates
+provisioning/library/library.html#scripts,library/templates/templates.html#script-templates,Script Templates
+provisioning/jobs/jobs.html#creating-and-running-security-scan-jobs,library/templates/templates.html#security-packages,Security Packages
+provisioning/automation/automation.html#variables,troubleshooting/Variables_Examples.html,Variables
+logs/logging.html,monitoring/logs.html,Logs
+tools/self-service.html,library/blueprints/blueprints.html#self-service,Self-service
